@@ -1,0 +1,30 @@
+{
+  "name": "angular-fda-round-filter",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nutritionix/angular-fda-round-filter",
+  "authors": [
+    "Yurko Fedoriv <yfedoriv@nutritionix.com>"
+  ],
+  "description": "AngularJS filter for applying fda rounding to nutrition values",
+  "main": "angular-fda-round-filter.js",
+  "keywords": [
+    "angular",
+    "fda round",
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js",
+    "karma.conf.js",
+    "/index.html",
+    "assets"
+  ],
+  "dependencies": {
+    "angular": ">=1.2"
+  }
+}
