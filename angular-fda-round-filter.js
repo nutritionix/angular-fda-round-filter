@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('nix.fda-round-filter')
+    .module('nix.fda-round-filter', [])
     .filter('fdaRound', function () {
 
       /**
