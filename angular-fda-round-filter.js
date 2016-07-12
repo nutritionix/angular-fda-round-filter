@@ -166,6 +166,10 @@
           return this.round3(value);
         },
 
+        round_potassium: function (value) {
+          return this.round3(value);
+        },
+
         /**
          * <table>
          * <thead>
